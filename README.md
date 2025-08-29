@@ -3,4 +3,4 @@ This is my first Repository
 <br>
 Author - Rishikesh Saini
 <br>
-HEllo this is readme file
+Hello this is readme file
